@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "question": "Quel type d'attachement est considéré comme protecteur face au trauma ?",
+    "options": ["Attachement désorganisé", "Attachement sécure", "Attachement insécure", "Attachement évitant"],
+    "correctAnswer": 1,
+    "explanation": "L'attachement sécure, développé dans l'enfance à travers des relations stables et sécurisantes avec les figures parentales, constitue un facteur de protection majeur face au trauma. Il permet une meilleure régulation émotionnelle, une capacité accrue à demander de l'aide en cas de besoin, et offre un modèle interne de sécurité et de confiance qui aide à traverser les épreuves difficiles. Les troubles d'attachement augmentent au contraire la vulnérabilité face au trauma."
+  },
+  {
+    "id": 2,
+    "question": "Quelle est l'approche recommandée face aux réactions d'une personne traumatisée ?",
+    "options": ["Respecter le rythme propre et ne pas juger", "Forcer le changement rapide", "Imposer un rythme de guérison", "Juger les réactions comme anormales"],
+    "correctAnswer": 0,
+    "explanation": "Chaque personne a son propre rythme de guérison qui doit être absolument respecté. Le non-jugement et le respect du rythme individuel sont essentiels pour créer un cadre sécurisant dans lequel la personne peut se sentir libre d'explorer ses réactions sans crainte de critique. Imposer un rythme ou juger les réactions comme anormales peut réactiver le sentiment d'impuissance lié au trauma et créer une rupture dans l'alliance thérapeutique."
+  },
+  {
+    "id": 3,
+    "question": "Selon l'approche intégrative, comment doit-on utiliser la méthode ?",
+    "options": ["Accélérer le processus systématiquement", "Appliquer strictement le protocole", "Copier-coller la même approche pour tous", "La mettre au service de ce qui se passe"],
+    "correctAnswer": 3,
+    "explanation": "L'approche intégrative rejette catégoriquement le 'copier-coller' méthodologique. La méthode doit s'adapter à la personne et à sa situation unique, et non l'inverse. C'est un ajustement constant aux besoins spécifiques de chaque individu, à son style d'expression, à ses préoccupations et à son contexte. Le thérapeute doit être créatif et flexible tout en gardant un cadre structurant."
+  },
+  {
+    "id": 4,
+    "question": "Quel est l'impact des expériences antérieures d'adversité ?",
+    "options": ["Elles modulent la capacité d'adaptation", "Aucun impact sur l'adaptation", "Elles empêchent toute résilience", "Elles accélèrent la guérison"],
+    "correctAnswer": 0,
+    "explanation": "Les expériences antérieures d'adversité et d'agressions ne sont ni entièrement négatives ni positives : elles modulent notre capacité à faire face aux événements futurs. Une exposition modérée accompagnée d'un soutien adéquat peut renforcer la résilience, tandis qu'une exposition excessive sans soutien peut augmenter la vulnérabilité. C'est la qualité de l'accompagnement reçu qui fait la différence."
+  },
+  {
+    "id": 5,
+    "question": "Que faut-il abandonner dans l'accompagnement thérapeutique ?",
+    "options": ["Les attentes normatives et le 'vouloir pour l'autre'", "Le cadre thérapeutique", "L'écoute empathique", "Les techniques structurées"],
+    "correctAnswer": 0,
+    "explanation": "Vouloir imposer ses propres attentes ('il devrait déjà aller mieux') ou des normes de guérison ('vouloir pour l'autre') sabote profondément le processus thérapeutique. La personne doit rester au centre de son propre processus de guérison, avec son rythme unique et ses objectifs propres. C'est une posture d'humilité et de respect fondamental."
+  },
+  {
+    "id": 6,
+    "question": "Quelle est la cadence habituelle du changement thérapeutique ?",
+    "options": ["Identique pour tous", "Toujours rapide et immédiate", "Prévisible et linéaire", "Souvent plus lente que souhaité"],
+    "correctAnswer": 3,
+    "explanation": "Le changement thérapeutique prend généralement beaucoup plus de temps qu'on ne l'espère, que ce soit du côté du thérapeute ou du client. Cette réalité est particulièrement vraie dans les cas de trauma où les mécanismes de protection sont profondément ancrés. Il faut accepter ce rythme plus lent sans pression ni frustration pour permettre un travail en profondeur et éviter les rechutes."
+  },
+  {
+    "id": 7,
+    "question": "Comment doit-on ajuster l'accompagnement ?",
+    "options": ["Sans tenir compte des différences", "Au style d'expression, préoccupations et besoins", "De manière standardisée", "En fonction du thérapeute uniquement"],
+    "correctAnswer": 1,
+    "explanation": "L'accompagnement doit être profondément personnalisé en fonction du style d'expression de la personne (qu'elle soit plus verbale, corporelle, ou émotionnelle), de ses préoccupations actuelles (ce qui la préoccupe vraiment ici et maintenant), et de ses besoins spécifiques (ce dont elle a besoin pour avancer). Cette flexibilité est au cœur de l'approche intégrative."
+  },
+  {
+    "id": 8,
+    "question": "Quel est le principe fondamental de l'approche intégrative ?",
+    "options": ["Suivre uniquement les protocoles", "Ignorer le contexte individuel", "Appliquer une seule technique", "Pas de 'copier-coller' méthodologique"],
+    "correctAnswer": 3,
+    "explanation": "L'approche intégrative refuse catégoriquement l'application mécanique et rigide des protocoles thérapeutiques. Chaque situation est unique et nécessite une adaptation créative de la méthode aux besoins spécifiques de la personne. Le thérapeute doit être à la fois structuré dans son cadre et flexible dans ses interventions."
+  },
+  {
+    "id": 9,
+    "question": "Que privilégie l'accompagnement thérapeutique ?",
+    "options": ["Le non-jugement des réactions", "Les normes sociales", "La rapidité du changement", "Les attentes du thérapeute"],
+    "correctAnswer": 0,
+    "explanation": "Le non-jugement crée un espace sécurisant fondamental où la personne peut explorer toutes ses réactions, même les plus difficiles ou honteuses, sans crainte de critique ou de rejet. Toutes les réactions post-traumatiques ont un sens dans l'histoire de la personne et doivent être accueillies avec empathie et curiosité plutôt qu'avec jugement."
+  },
+  {
+    "id": 10,
+    "question": "Quel facteur personnel influence la résilience ?",
+    "options": ["Le statut socio-économique seul", "La qualité de l'attachement précoce", "Uniquement l'âge", "Seulement le niveau d'éducation"],
+    "correctAnswer": 1,
+    "explanation": "La qualité de l'attachement précoce (les liens établis avec les figures parentales dans l'enfance) est un déterminant majeur de la résilience face aux événements traumatiques. Un attachement sécure offre un modèle interne de sécurité et de confiance qui aide à traverser les épreuves. Les troubles d'attachement augmentent au contraire la vulnérabilité."
+  },
+  {
+    "id": 11,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Les troubles d'attachement diminuent la vulnérabilité face au trauma.",
+    "correctAnswer": false,
+    "explanation": "FAUX. C'est l'inverse qui est vrai. Les troubles d'attachement augmentent considérablement la vulnérabilité face au trauma, ils ne la diminuent pas. Un attachement sécure précoce est un facteur de protection qui facilite la résilience, tandis qu'un attachement insécure, évitant, ou désorganisé fragilise la capacité à faire face aux événements traumatiques."
+  },
+  {
+    "id": 12,
+    "question": "Qu'est-ce qu'un trauma de type 1 ?",
+    "options": ["Événement ponctuel avec 'avant/après' net", "Exposition continue", "Multiples événements envahissants", "Trauma transgénérationnel"],
+    "correctAnswer": 0,
+    "explanation": "Le trauma de type 1 (ou trauma simple) est caractérisé par un événement unique, ponctuel et clairement identifiable dans le temps qui crée une rupture nette dans la vie de la personne. Il y a un 'avant' et un 'après' distinctement perceptibles. Les exemples typiques incluent un accident de voiture isolé, une annonce médicale brutale, une agression ponctuelle."
+  },
+  {
+    "id": 13,
+    "question": "Donnez un exemple de trauma de type 1 :",
+    "options": ["Violences conjugales répétées", "Annonce brutale, accident", "Zone de guerre", "Inceste prolongé"],
+    "correctAnswer": 1,
+    "explanation": "L'annonce brutale (comme un diagnostic grave, un décès soudain) ou l'accident (de voiture, du travail, domestique) sont des événements ponctuels et circonscrits dans le temps, typiques du trauma de type 1. Ces événements créent une rupture claire dans la vie, avec un avant et un après distinct."
+  },
+  {
+    "id": 14,
+    "question": "Qu'est-ce qu'un trauma de type 4 ?",
+    "options": ["Trauma léger", "Événement unique", "Trauma imaginaire", "Exposition continue ou répétée"],
+    "correctAnswer": 3,
+    "explanation": "Le trauma de type 4 se caractérise par l'impossibilité pour la personne d'échapper à la situation traumatique : elle est exposée de façon continue ou répétée à des événements traumatisants sans pouvoir s'en extraire. Les exemples incluent les violences conjugales, l'inceste, ou l'exposition prolongée à une zone de guerre."
+  },
+  {
+    "id": 15,
+    "question": "Quelles sont les priorités pour un trauma de type 4 ?",
+    "options": ["Sécurité, signalement, extraction", "Analyse immédiate des causes", "Thérapie individuelle seule", "Confrontation directe"],
+    "correctAnswer": 0,
+    "explanation": "Avant tout travail thérapeutique approfondi sur un trauma de type 4, il faut d'abord et absolument assurer la sécurité physique de la personne. Cela implique : le signalement aux autorités compétentes si nécessaire, l'extraction de la situation dangereuse, et la mise en place d'un réseau de soutien solide. On ne peut pas traiter efficacement un trauma pendant qu'il continue."
+  },
+  {
+    "id": 16,
+    "question": "Quels exemples correspondent au trauma de type 4 ?",
+    "options": ["Violences conjugales, inceste, zones de guerre", "Accident de voiture isolé", "Chute accidentelle", "Annonce médicale"],
+    "correctAnswer": 0,
+    "explanation": "Ces trois situations (violences conjugales, inceste, exposition à une zone de guerre) partagent toutes la caractéristique commune de l'exposition répétée et prolongée à des événements traumatisants sans possibilité d'échapper facilement à la situation. La personne est littéralement 'prisonnière' du contexte traumatique."
+  },
+  {
+    "id": 17,
+    "question": "Quelle méthodologie pour identifier le type de trauma ?",
+    "options": ["Attendre plusieurs mois", "Identifier rapidement pour orienter l'action", "Ne pas différencier les types", "Se focaliser uniquement sur les symptômes"],
+    "correctAnswer": 1,
+    "explanation": "L'identification rapide du type de trauma est absolument cruciale car elle permet d'adapter l'intervention de façon appropriée et urgente. Un trauma de type 4 nécessite des actions de protection immédiates avant même de penser au travail thérapeutique, tandis qu'un trauma de type 1 peut être abordé différemment. C'est l'application du principe : 'éteindre le feu avant d'analyser les causes'."
+  },
+  {
+    "id": 18,
+    "question": "Quelle est la priorité immédiate face au trauma ?",
+    "options": ["Analyser les causes profondes", "Éteindre le feu avant d'analyser", "Faire une thérapie longue", "Prescrire des médicaments"],
+    "correctAnswer": 1,
+    "explanation": "La métaphore 'éteindre le feu avant d'analyser les causes' illustre parfaitement que la sécurité et la stabilisation sont absolument prioritaires sur l'analyse et la compréhension. On ne fait pas de psychanalyse pendant qu'une maison brûle. D'abord sécuriser, stabiliser, puis seulement ensuite comprendre et traiter en profondeur."
+  },
+  {
+    "id": 19,
+    "question": "Le trauma de type 2 (complexe) se caractérise par :",
+    "options": ["Absence de menace", "Événement unique", "Trauma léger", "Événement répété, menace durable"],
+    "correctAnswer": 3,
+    "explanation": "Le trauma de type 2 (ou complexe) implique des événements répétés créant une menace durable : violences intrafamiliales, abus sexuels répétés, situations de guerre. L'impact sur la personnalité et l'attachement est plus profond qu'avec un trauma simple, nécessitant une prise en charge spécifique et souvent à long terme."
+  },
+  {
+    "id": 20,
+    "question": "Le trauma de type 3 concerne :",
+    "options": ["Événements multiples, envahissants, violents sur longue durée", "Un accident isolé", "Des peurs irrationnelles", "Des pensées négatives"],
+    "correctAnswer": 0,
+    "explanation": "Le trauma de type 3 représente des événements multiples, envahissants et violents qui s'inscrivent dans une très longue durée : torture systématique, terrorisme prolongé, réseaux pédophiles organisés, famines prolongées. L'intensité extrême combinée à la durée crée un traumatisme particulièrement complexe qui affecte profondément toutes les dimensions de la personnalité."
+  },
+  {
+    "id": 21,
+    "question": "Que nécessite un trauma de type 4 en priorité ?",
+    "options": ["Confrontation immédiate", "Développement de ressources et maillage d'aide", "Isolation thérapeutique", "Analyse cognitive seule"],
+    "correctAnswer": 1,
+    "explanation": "Pour sortir d'une situation de trauma continu, la personne a besoin de développer des ressources internes (estime de soi, stratégies de coping) et externes (réseau d'aide professionnel et personnel, structures d'accueil). Le maillage pluridisciplinaire est essentiel : travailleurs sociaux, psychologues, médecins, juristes pour éviter l'isolement du thérapeute et apporter une réponse globale."
+  },
+  {
+    "id": 22,
+    "type": "vf",
+    "question": "VRAI OU FAUX : On peut traiter un trauma de type 4 pendant que la personne reste exposée.",
+    "correctAnswer": false,
+    "explanation": "FAUX. Il est absolument impossible de traiter efficacement un trauma pendant qu'il continue activement. Pour un trauma de type 4 (exposition continue ou répétée), la priorité absolue et non négociable est l'extraction de la situation dangereuse. C'est l'application stricte du principe 'éteindre le feu avant d'analyser les causes'. La sécurité d'abord, la stabilisation ensuite, et seulement après : le travail thérapeutique."
+  },
+  {
+    "id": 23,
+    "question": "Que signifie SSPT ?",
+    "options": ["Stress Sévère Post-Thérapie", "Système de Suivi Psychologique", "Soutien Spécialisé Post-Trauma", "Syndrome de Stress Post-Traumatique"],
+    "correctAnswer": 3,
+    "explanation": "SSPT est l'acronyme de Syndrome de Stress Post-Traumatique (TSPT en français, PTSD en anglais). C'est un trouble anxieux spécifique qui se développe suite à l'exposition à un événement traumatique et qui se caractérise par quatre groupes de symptômes : reviviscence, évitement, hypervigilance, et altération des cognitions et émotions."
+  },
+  {
+    "id": 24,
+    "question": "Quel est le premier critère du SSPT ?",
+    "options": ["Anxiété généralisée", "Reviviscence (flashbacks, cauchemars)", "Dépression", "Insomnie"],
+    "correctAnswer": 1,
+    "explanation": "La reviviscence est le symptôme signature du SSPT : la personne revit l'événement de manière intrusive à travers des flashbacks, des cauchemars ou des intrusions sensorielles. L'événement traumatique 'repasse en boucle' comme si le cerveau n'arrivait pas à le classer dans le passé et à le digérer normalement."
+  },
+  {
+    "id": 25,
+    "question": "Que comprend la reviviscence ?",
+    "options": ["Flashbacks, cauchemars, intrusions sensorielles", "Pensées positives", "Euphorie", "Oubli de l'événement"],
+    "correctAnswer": 0,
+    "explanation": "La reviviscence se manifeste par des flashbacks (images intrusives qui s'imposent), des cauchemars répétitifs reproduisant ou symbolisant l'événement, et des intrusions visuelles, sonores ou somatosensorielles (sensations corporelles). La personne revit l'événement comme s'il se passait dans le présent, avec la même intensité émotionnelle."
+  }
+]

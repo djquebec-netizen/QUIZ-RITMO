@@ -1,0 +1,522 @@
+[
+  {
+    "id": 101,
+    "question": "Quelle est la question clé du questionnement circulaire ?",
+    "options": [
+      "Pourquoi avez-vous fait cela ?",
+      "Qu'est-ce que l'autre personne pense de ce que vous venez d'exprimer ?",
+      "Comment vous sentez-vous maintenant ?",
+      "Quand cela a-t-il commencé ?"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La question centrale du questionnement circulaire est : 'Qu'est-ce que, à votre avis, [l'autre personne] est en train de penser de ce que vous venez d'exprimer ?' Cette formulation permet de créer un changement de perspective en invitant la personne à se mettre à la place de l'autre, brisant ainsi le schéma de la plainte."
+  },
+  {
+    "id": 102,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Le questionnement circulaire nécessite un changement physique de place dans l'espace.",
+    "correctAnswer": true,
+    "explanation": "VRAI. Le changement d'espace physique est un élément clé de la technique. On utilise des chaises supplémentaires pour matérialiser les différentes positions, et la personne se déplace physiquement pour incarner l'autre personne. Ce changement spatial facilite le changement de perspective."
+  },
+  {
+    "id": 103,
+    "question": "L'expérience de Harlow dans les années 1950 a démontré que :",
+    "options": [
+      "Les bébés singes préfèrent la nourriture au réconfort",
+      "Le besoin de sécurité et de contact est plus fondamental que le besoin de nourriture",
+      "Les mammifères peuvent survivre sans contact physique",
+      "La température est le facteur le plus important"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'expérience de Harlow a prouvé que pour les mammifères, le besoin de sécurité et de contact affectif est plus fondamental que le besoin de subsistance. Le bébé singe placé avec une 'mère' en fil de fer qui le nourrit et une 'mère' en fourrure douce passait tout son temps blotti contre la mère en fourrure pour le réconfort, allant jusqu'à se laisser mourir de faim."
+  },
+  {
+    "id": 104,
+    "question": "Selon la théorie de l'attachement, l'hormone transmise par le contact peau à peau est :",
+    "options": [
+      "La sérotonine",
+      "La dopamine",
+      "L'ocytocine",
+      "L'adrénaline"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'ocytocine est l'hormone de l'attachement. Elle est transmise par le lait maternel mais aussi, et surtout, par le contact physique peau à peau entre le parent et l'enfant. Cette hormone joue un rôle crucial dans la création du lien d'attachement."
+  },
+  {
+    "id": 105,
+    "question": "Un attachement sécure se développe quand :",
+    "options": [
+      "Le parent est toujours présent physiquement",
+      "Le parent répond de manière adéquate et prévisible aux besoins de l'enfant",
+      "L'enfant ne manque jamais de rien matériellement",
+      "L'enfant est protégé de toute difficulté"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Un attachement sécure se forme lorsque le parent répond de manière adéquate et prévisible aux besoins de l'enfant. Cette constance et cette fiabilité permettent à l'enfant de développer la confiance qu'il peut compter sur les autres et de se sentir en sécurité pour explorer le monde."
+  },
+  {
+    "id": 106,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Un attachement insécure est irréversible et ne peut pas être transformé.",
+    "correctAnswer": false,
+    "explanation": "FAUX. Un attachement insécure peut être transformé en attachement sécure. Ce processus de réparation prend environ 2 à 3 ans et peut se faire via une relation avec un partenaire ayant un attachement sécure ou par un accompagnement approprié. La plasticité du cerveau permet cette transformation."
+  },
+  {
+    "id": 107,
+    "question": "L'attachement désorganisé survient principalement quand :",
+    "options": [
+      "L'enfant change fréquemment de gardien",
+      "La figure d'attachement est également une source de peur",
+      "Les parents sont trop permissifs",
+      "L'enfant est placé en institution"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'attachement désorganisé (10-15% des cas) se développe lorsque la figure d'attachement est également une source de peur pour l'enfant. Par exemple, un parent sous l'emprise de drogues ou souffrant de psychopathologie. L'enfant est alors pris dans un conflit insoluble : il a besoin de cette personne pour survivre, mais elle lui fait peur."
+  },
+  {
+    "id": 108,
+    "question": "Chez un nourrisson, quel symptôme persistant doit alerter ?",
+    "options": [
+      "Des pleurs occasionnels",
+      "Un sommeil de 16 heures par jour",
+      "Des pleurs quasi constants, des régurgitations fréquentes ou un sommeil perturbé",
+      "Des sourires fréquents"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Un symptôme persistant chez un bébé doit être une source de préoccupation majeure : irritabilité, pleurs quasi constants (souvent sans larmes), refus de se nourrir, régurgitations fréquentes (pouvant symboliser un rejet des 'nourritures affectives'), ou difficultés de sommeil (état de 'sentinelle'). Avant toute intervention, un pédiatre doit écarter toute cause organique."
+  },
+  {
+    "id": 109,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Il faut cacher les drames familiaux aux enfants pour les protéger.",
+    "correctAnswer": false,
+    "explanation": "FAUX. Les parents pensent souvent protéger l'enfant en taisant les drames, mais c'est une erreur. L'enfant ressent les non-dits et peut même exprimer les symptômes de ces situations familiales cachées. Il est essentiel de dire la vérité aux enfants sur leur histoire, adaptée à leur âge."
+  },
+  {
+    "id": 110,
+    "question": "Pour un enfant de moins de 8 ans ayant des difficultés d'apprentissage, le facteur principal est souvent :",
+    "options": [
+      "Un manque d'intelligence",
+      "Le besoin de maintenir le lien de sécurité avec ses parents",
+      "Un problème de concentration génétique",
+      "Trop de temps passé devant les écrans"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Un enfant travaille bien à l'école principalement pour faire plaisir à ses parents et maintenir son lien de sécurité. Si ce lien est perturbé ou si l'enfant perçoit des tensions familiales, cela peut se manifester par des difficultés d'apprentissage. L'enfant est une 'éponge émotionnelle' qui capte et exprime les tensions familiales."
+  },
+  {
+    "id": 111,
+    "question": "La posture physique recommandée lors d'un accompagnement avec un enfant est :",
+    "options": [
+      "L'enfant seul face au praticien",
+      "L'enfant assis loin de ses parents",
+      "L'enfant sur les genoux de son parent",
+      "L'enfant debout pendant la séance"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Garder l'enfant sur les genoux de son parent permet une transmission quasi instantanée de l'apaisement émotionnel. L'enfant étant une 'éponge émotionnelle', si le parent se calme grâce aux interventions, l'enfant ressent immédiatement cet apaisement par le contact physique."
+  },
+  {
+    "id": 112,
+    "type": "vf",
+    "question": "VRAI OU FAUX : L'énurésie chez l'enfant est souvent liée à des problématiques de territoire.",
+    "correctAnswer": true,
+    "explanation": "VRAI. L'énurésie est souvent liée à des problématiques de territoire. L'encoprésie, quant à elle, peut être un symptôme lié à des situations difficiles (pas nécessairement vécues directement par l'enfant, mais présentes dans l'histoire familiale), exprimant une réaction face à des parents dans le déni."
+  },
+  {
+    "id": 113,
+    "question": "La technique d'association-dissociation avec un enfant consiste à :",
+    "options": [
+      "Séparer l'enfant de ses parents",
+      "Inviter 'le grand' (âge actuel) à aider 'le petit' (âge du souvenir difficile)",
+      "Faire oublier le passé à l'enfant",
+      "Confronter l'enfant à ses peurs"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Lorsqu'un enfant plus âgé (ex: 9 ans) évoque un souvenir difficile vécu plus jeune (ex: 5 ans), il peut régresser émotionnellement. On invite alors 'le grand' (l'enfant de 9 ans) à aider 'le petit' (son soi de 5 ans) en lui donnant un outil imaginaire (ex: une 'carte d'invisibilité'). Cela permet à l'enfant de se réassocier à son âge actuel et de prendre de la distance avec le souvenir."
+  },
+  {
+    "id": 114,
+    "question": "Avec les adolescents, le praticien doit être particulièrement vigilant car :",
+    "options": [
+      "Ils sont toujours manipulateurs",
+      "Ils sont très habiles pour dissimuler leur mal-être",
+      "Ils refusent systématiquement l'aide",
+      "Leur cerveau n'est pas assez mature"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les adolescents sont très habiles pour dissimuler leur mal-être. Leur souffrance peut s'exprimer à travers des comportements asociaux, de la délinquance, des addictions, des scarifications ou des prises de risques. Un accompagnement familial en parallèle est souvent essentiel pour comprendre la situation globale."
+  },
+  {
+    "id": 115,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Une semaine de séparation pour un nouveau-né équivaut à environ six mois pour un adulte.",
+    "correctAnswer": true,
+    "explanation": "VRAI. La perception du temps est très différente chez le nouveau-né. Une semaine de séparation pour un bébé équivaut à environ six mois pour un adulte en termes d'impact sur le lien d'attachement. C'est pourquoi les séparations précoces (hospitalisation, etc.) peuvent créer des ruptures significatives du lien."
+  },
+  {
+    "id": 116,
+    "question": "Dans une famille, la hiérarchie verticale concerne :",
+    "options": [
+      "Les enfants entre eux (aîné, cadet, benjamin)",
+      "Les relations avec les grands-parents",
+      "Les parents, avec leurs différences de rôles et de positions",
+      "L'organisation des tâches ménagères"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La hiérarchie verticale (ou parentale) concerne les parents. Une égalité parfaite entre parents est illusoire : la position supérieure est souvent occupée par celui qui a le revenu le plus élevé et qui est le moins présent physiquement, l'autre gérant davantage l'organisation domestique et quotidienne."
+  },
+  {
+    "id": 117,
+    "question": "La hiérarchie horizontale dans une famille désigne :",
+    "options": [
+      "Les relations entre les parents",
+      "Les relations entre les enfants (fratrie) avec leurs places respectives",
+      "Les relations avec les voisins",
+      "L'organisation du temps familial"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La hiérarchie horizontale concerne la fratrie : les enfants entre eux (aîné, cadet, benjamin). Chacun a une place et un rôle spécifiques. Les situations difficiles peuvent perturber cette hiérarchie, comme un enfant qui prend un rôle parental et quitte sa place dans la fratrie."
+  },
+  {
+    "id": 118,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Un événement difficile peut amener un enfant à quitter la hiérarchie de la fratrie pour intégrer celle des parents.",
+    "correctAnswer": true,
+    "explanation": "VRAI. Par exemple, un enfant qui développe une difficulté et prend en charge certaines fonctions parentales (comme gérer la nourriture familiale) se substitue à sa mère et quitte la hiérarchie de la fratrie pour intégrer celle des parents, gagnant une nouvelle place de pouvoir. Ce changement persiste dans près de 40% des cas, même après résolution du trouble initial."
+  },
+  {
+    "id": 119,
+    "question": "La différence principale entre une famille fonctionnelle et une famille dysfonctionnelle est que :",
+    "options": [
+      "La famille fonctionnelle est plus riche",
+      "La famille fonctionnelle consulte volontairement et sait identifier ses problèmes",
+      "La famille fonctionnelle n'a jamais de conflits",
+      "La famille dysfonctionnelle a plus d'enfants"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les familles fonctionnelles consultent volontairement, savent identifier leurs problèmes et exprimer leurs émotions. Elles mobilisent leurs ressources internes avant de chercher une aide externe. Les familles dysfonctionnelles, en revanche, craignent le jugement et ne consultent que sous la contrainte d'une institution (école, juge)."
+  },
+  {
+    "id": 120,
+    "question": "Lors d'un accompagnement familial, la première étape consiste à :",
+    "options": [
+      "Travailler immédiatement sur les souvenirs difficiles",
+      "Demander à chaque membre son souvenir le plus marquant depuis l'événement",
+      "Séparer les membres de la famille",
+      "Prescrire des exercices à faire à la maison"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La première étape consiste à questionner chaque membre individuellement en groupe pour qu'il partage son souvenir le plus marquant depuis l'événement. L'écoute mutuelle des souffrances (ex: la mère se sent 'mauvaise maman', le petit frère pense que 'c'est de sa faute') brise l'isolement et permet à chacun de réaliser que tous souffrent."
+  },
+  {
+    "id": 121,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Le 'rythmo groupal' signifie que toute la famille travaille sur le même souvenir simultanément.",
+    "correctAnswer": false,
+    "explanation": "FAUX. Lors du 'rythmo groupal', toute la famille participe simultanément aux stimulations bilatérales, mais chacun se concentre sur sa propre problématique spécifique. Les séances durent entre 1h30 et 2h. C'est un travail collectif mais individualisé."
+  },
+  {
+    "id": 122,
+    "question": "Dans un accompagnement familial, le membre qui se sent libéré en premier peut devenir :",
+    "options": [
+      "Le patient désigné",
+      "Un co-accompagnant pour aider les autres membres",
+      "Le porte-parole unique de la famille",
+      "Le responsable de tous les problèmes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Le membre qui se sent libéré en premier est sollicité pour aider les autres. Par exemple, un enfant peut être encouragé à faire un câlin à sa mère pour la réconforter. Cette dynamique utilise les ressources émergentes au sein du système familial lui-même."
+  },
+  {
+    "id": 123,
+    "question": "La pensée positive commune dans un accompagnement familial doit être :",
+    "options": [
+      "Imposée par le praticien",
+      "Identique pour toutes les familles",
+      "Co-construite par toute la famille et ancrée par une stimulation",
+      "Écrite mais non verbalisée"
+    ],
+    "correctAnswer": 2,
+    "explanation": "L'étape finale consiste à ce que la famille collabore pour définir une pensée positive commune (ex: 'Nous sommes une famille unie'), qui est ensuite 'ancrée' par une dernière stimulation bilatérale. Cette pensée doit être co-construite par tous les membres et refléter leur vécu commun."
+  },
+  {
+    "id": 124,
+    "type": "vf",
+    "question": "VRAI OU FAUX : En accompagnement de couple, le contenu des entretiens individuels reste strictement confidentiel.",
+    "correctAnswer": false,
+    "explanation": "FAUX. Le praticien annonce dès le début que le contenu des entretiens individuels sera restitué en session commune. Cela l'empêche de devenir le dépositaire de secrets (ex: infidélité) et protège le cadre. Cette transparence est essentielle pour maintenir la confiance et l'équité dans l'accompagnement."
+  },
+  {
+    "id": 125,
+    "question": "La structure type d'une séance de couple (1h30) est généralement :",
+    "options": [
+      "1h30 ensemble",
+      "45 min avec l'un, 45 min avec l'autre",
+      "30 min avec un partenaire, 30 min avec l'autre, puis 30 min ensemble",
+      "1h avec le couple, 30 min de conclusion individuelle"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La structure recommandée est : 30 minutes avec un partenaire, 30 minutes avec l'autre, puis 30 minutes ensemble. Cette structure est particulièrement adaptée si un partenaire est jugé trop fragile pour entendre directement l'autre. Elle permet à chacun de s'exprimer librement avant la confrontation commune."
+  },
+  {
+    "id": 126,
+    "question": "L'objectif principal de l'accompagnement de couple est de :",
+    "options": [
+      "Trouver qui a raison",
+      "Rétablir la circulation émotionnelle en réapprenant à consoler et être consolé",
+      "Éviter tous les conflits futurs",
+      "Décider qui doit changer en premier"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'objectif est de rétablir la 'circulation' : réapprendre à consoler et être consolé. Souvent, après un événement difficile (comme la perte d'un enfant, cause de séparation pour 70% des couples), les partenaires ne savent plus comment se réconforter mutuellement."
+  },
+  {
+    "id": 127,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Le praticien doit accepter tous les accompagnements même si l'objectif heurte ses valeurs personnelles.",
+    "correctAnswer": false,
+    "explanation": "FAUX. Le praticien n'est pas une machine. Il a le droit de refuser un accompagnement si l'objectif heurte ses valeurs personnelles. Son propre vécu peut influencer l'alliance, et la gestion de ces 'conflits sociocognitifs' fait partie du métier. Il est important de rester authentique et de reconnaître ses limites."
+  },
+  {
+    "id": 128,
+    "question": "Pour devenir spécialiste en approche familiale, le cursus dure généralement :",
+    "options": [
+      "6 mois intensifs",
+      "1 an à temps plein",
+      "4 ans à un rythme compatible avec une activité professionnelle",
+      "10 ans d'expérience minimum"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Le cursus pour devenir spécialiste en approche familiale dure 4 ans, à un rythme compatible avec une vie professionnelle (ex: 2 jours par mois), et inclut la rédaction d'un mémoire. Cette formation apporte une crédibilité reconnue par les professionnels et pérennise l'activité."
+  },
+  {
+    "id": 129,
+    "question": "Les constellations familiales consistent à :",
+    "options": [
+      "Dessiner un arbre généalogique complet",
+      "Incarner des rôles familiaux sans informations préalables",
+      "Organiser des réunions de famille",
+      "Visiter les lieux de vie de ses ancêtres"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Les constellations familiales sont un outil systémique où des personnes incarnent des rôles ('être mon père') sans avoir reçu d'informations préalables sur l'histoire familiale. L'émergence d'émotions cohérentes avec cette histoire, sans connaissance préalable, est souvent impressionnante et révélatrice."
+  },
+  {
+    "id": 130,
+    "type": "vf",
+    "question": "VRAI OU FAUX : La technique du 'butterfly hug' consiste à croiser les bras sur la poitrine et se tapoter les épaules.",
+    "correctAnswer": true,
+    "explanation": "VRAI. Le 'butterfly hug' (étreinte du papillon) est une technique d'auto-réconfort : croiser les bras sur la poitrine et se tapoter doucement les épaules. Cette technique procure du réconfort, une sensation de bercement et de sécurité. Elle permet de se donner à soi-même le réconfort qui n'a pas été reçu."
+  },
+  {
+    "id": 131,
+    "question": "La fenêtre de tolérance émotionnelle désigne :",
+    "options": [
+      "Le temps maximum d'une séance",
+      "L'espace émotionnel dans lequel une personne fonctionne au quotidien",
+      "La capacité à supporter la chaleur ou le froid",
+      "Le nombre de souvenirs qu'on peut travailler par séance"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La fenêtre de tolérance émotionnelle est l'espace dans lequel chaque individu fonctionne émotionnellement au quotidien. Le stress peut nous en faire sortir, soit par hyperactivation (fuite, combat), soit par hypoactivation (sidération, sur-adaptation). Il est crucial de ramener la personne dans sa fenêtre avant de commencer l'accompagnement."
+  },
+  {
+    "id": 132,
+    "question": "Pour ramener une personne en hyperactivation dans sa fenêtre de tolérance, on peut :",
+    "options": [
+      "Augmenter le rythme de la séance",
+      "Lui demander de parler plus vite",
+      "Utiliser des techniques de retour au calme comme le lieu ressource",
+      "La confronter immédiatement à ses souvenirs"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Une personne en hyperactivation (agitée, parle vite) a besoin de techniques de retour au calme : lieu ressource, objet à malaxer pour canaliser l'énergie, exercices de respiration. Il est impossible de faire un bon accompagnement tant que la personne n'est pas revenue dans sa fenêtre de tolérance."
+  },
+  {
+    "id": 133,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Une personne en hypoactivation a besoin d'exercices d'ancrage pour 'revenir au corps'.",
+    "correctAnswer": true,
+    "explanation": "VRAI. Une personne en hypoactivation (regard fuyant, repliée sur elle-même, sidérée) a besoin de techniques d'ancrage pour 'revenir au corps' : sentir ses pieds au sol, s'adosser fermement à la chaise, exercices de respiration consciente. Ces techniques aident à retrouver une présence corporelle et émotionnelle."
+  },
+  {
+    "id": 134,
+    "question": "Avant de commencer la phase de retraitement (pensée positive), l'intensité émotionnelle doit être descendue à :",
+    "options": [
+      "10/10 pour avoir toute l'émotion disponible",
+      "8/10 au minimum",
+      "5/10 ou moins",
+      "0/10 obligatoirement"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La phase de retraitement (pensée positive) ne doit commencer que lorsque l'intensité émotionnelle est descendue à 5/10 ou moins. Avant ce seuil, l'émotion est trop envahissante pour permettre un travail cognitif constructif. Il faut d'abord désensibiliser suffisamment."
+  },
+  {
+    "id": 135,
+    "question": "La durée d'un accompagnement considéré comme 'bref' peut aller jusqu'à :",
+    "options": [
+      "1 séance unique",
+      "3 séances maximum",
+      "6 mois",
+      "2 ans"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Une approche brève (TCC, PNL, systémie) peut durer jusqu'à 2 ans. Il est important d'expliquer au client que la durée du processus est imprévisible : quelques séances pour un événement simple, plusieurs mois voire jusqu'à 2 ans pour une situation complexe. Cela permet de gérer les attentes dès le début."
+  },
+  {
+    "id": 136,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Un client ne doit jamais repartir d'une séance avec une forte charge émotionnelle.",
+    "correctAnswer": true,
+    "explanation": "VRAI. Un client ne doit jamais repartir 'en vrac'. Si l'émotion est encore haute en fin de séance, il est crucial d'utiliser des techniques d'apaisement (hypnose, respiration, signe de l'infini tracé lentement, reconnexion au lieu-ressource) pour faire redescendre l'intensité avant que la personne ne parte."
+  },
+  {
+    "id": 137,
+    "question": "Si une émotion comme la colère ne diminue pas pendant l'accompagnement, il faut :",
+    "options": [
+      "Forcer la personne à la réprimer",
+      "Abandonner l'accompagnement",
+      "L'explorer pour comprendre son message et son origine",
+      "Ignorer cette émotion et passer à une autre"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Une émotion n'est jamais 'négative' en soi. Si une émotion comme la colère ne diminue pas, il faut l'explorer pour comprendre son message et son origine (la pensée négative associée) plutôt que de chercher à la masquer. Cette émotion tente de communiquer quelque chose d'important."
+  },
+  {
+    "id": 138,
+    "question": "Pendant la stimulation bilatérale, il est préférable que le client :",
+    "options": [
+      "Parle en continu de ce qu'il ressent",
+      "Ne parle pas pour rester connecté au processus inconscient",
+      "Chante une chanson apaisante",
+      "Compte à rebours de 100 à 0"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Il est préférable que le client ne parle pas pendant la stimulation bilatérale pour ne pas réactiver le mental et rester connecté au processus inconscient. La consigne est : 'Vous me direz après'. La verbalisation pendant la stimulation peut interrompre le processus de retraitement naturel."
+  },
+  {
+    "id": 139,
+    "type": "vf",
+    "question": "VRAI OU FAUX : La marche est une forme de stimulation bilatérale naturelle.",
+    "correctAnswer": true,
+    "explanation": "VRAI. La marche est une forme de stimulation bilatérale naturelle grâce au mouvement alterné des jambes. Proposer des séances en marchant (parc, bord de mer) peut être très efficace pour apaiser les émotions. C'est une forme de 'thérapie hors les murs' particulièrement bénéfique."
+  },
+  {
+    "id": 140,
+    "question": "Avec une personne épileptique, il faut :",
+    "options": [
+      "Utiliser uniquement des stimulations visuelles",
+      "Privilégier d'autres formes de stimulation que le mouvement des yeux",
+      "Éviter tout accompagnement",
+      "Augmenter la vitesse des stimulations"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La prudence est de mise avec l'épilepsie, car la stimulation visuelle pourrait potentiellement déclencher une crise. Il faut privilégier d'autres formes de stimulation que le mouvement des yeux (tapotements kinesthésiques, sons). L'hypnose classique, en revanche, donne de bons résultats avec les personnes épileptiques."
+  },
+  {
+    "id": 141,
+    "question": "Un système en approche systémique est défini comme :",
+    "options": [
+      "Un ensemble d'éléments isolés les uns des autres",
+      "Un ensemble d'éléments en interaction où la modification d'un seul affecte tous les autres",
+      "Une organisation hiérarchique rigide",
+      "Un groupe de personnes sans lien entre elles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Un système est un ensemble d'éléments en interaction, où la modification d'un seul élément affecte tous les autres. Chaque personne appartient simultanément à plusieurs systèmes (familial, professionnel, social). C'est le principe fondamental de l'approche systémique."
+  },
+  {
+    "id": 142,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Le praticien peut observer un système sans l'influencer.",
+    "correctAnswer": false,
+    "explanation": "FAUX. La 'neutralité bienveillante' est un mythe. Le praticien, par sa simple présence et son attention, influence inévitablement le système observé et en devient partie intégrante (créant ainsi le 'système d'accompagnement'). On ne peut pas être un observateur totalement externe et neutre."
+  },
+  {
+    "id": 143,
+    "question": "L'homéostasie d'un système désigne :",
+    "options": [
+      "Sa capacité à changer rapidement",
+      "Sa tendance naturelle à maintenir son équilibre, fonctionnel ou dysfonctionnel",
+      "Son niveau de communication",
+      "Son degré de satisfaction"
+    ],
+    "correctAnswer": 1,
+    "explanation": "L'homéostasie est la tendance naturelle d'un système à maintenir son équilibre, qu'il soit fonctionnel ou dysfonctionnel. Un système préfère souvent la stabilité (même problématique) au changement. C'est pourquoi les systèmes résistent parfois aux changements même bénéfiques."
+  },
+  {
+    "id": 144,
+    "question": "Une rétroaction négative dans un système signifie que :",
+    "options": [
+      "Le système accepte le changement proposé",
+      "Le système refuse le changement pour préserver son équilibre",
+      "Les membres du système sont en colère",
+      "Le système est en pleine crise"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Une rétroaction négative (ou feedback négatif) signifie que le système refuse le changement pour préserver son équilibre (homéostasie). Le terme 'négatif' ne signifie pas 'mauvais', mais indique que le système résiste au changement proposé pour maintenir sa stabilité actuelle."
+  },
+  {
+    "id": 145,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Une rétroaction positive déstabilise le système pour lui permettre d'évoluer vers un nouvel équilibre.",
+    "correctAnswer": true,
+    "explanation": "VRAI. Une rétroaction positive signifie que le système accepte le changement, ce qui le déstabilise temporairement pour lui permettre d'évoluer vers un nouvel équilibre. Cette déstabilisation nécessaire est le passage obligé vers une nouvelle organisation plus fonctionnelle."
+  },
+  {
+    "id": 146,
+    "question": "La pensée linéaire causale se caractérise par la question :",
+    "options": [
+      "Comment en est-on arrivé là ?",
+      "Pourquoi ? (cherche un coupable)",
+      "Que peut-on faire ensemble ?",
+      "Quelles sont nos ressources ?"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La pensée linéaire causale suit le schéma 'A cause B' et cherche un coupable en posant la question 'Pourquoi ?'. Exemple : 'C'est de ta faute si je suis malheureux'. Cette pensée est limitante car elle fige les rôles et empêche la co-construction de solutions."
+  },
+  {
+    "id": 147,
+    "question": "La pensée circulaire systémique postule que :",
+    "options": [
+      "Il y a toujours un seul responsable",
+      "A influence B, qui influence A en retour - le problème est co-construit",
+      "Les problèmes sont insolubles",
+      "Seul le passé importe"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La pensée circulaire systémique reconnaît que A influence B, qui influence A en retour. Le problème est 'co-construit' par les interactions. La question centrale devient 'Comment ?' (Comment en est-on arrivé là ?). La responsabilité est partagée, donc la solution peut être co-construite."
+  },
+  {
+    "id": 148,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Le système familial se réorganise à chaque étape clé de son cycle de vie.",
+    "correctAnswer": true,
+    "explanation": "VRAI. Le système familial passe par différentes étapes (célibataire quittant le foyer, formation du couple, arrivée des enfants, scolarisation, adolescents, nid vide, retraite, fin de vie des parents) et se réorganise à chaque transition. D'autres événements (maladie, deuil, chômage) déstabilisent également le système."
+  },
+  {
+    "id": 149,
+    "question": "La supervision pour les praticiens a pour finalité principale de :",
+    "options": [
+      "Critiquer le travail réalisé",
+      "Améliorer le travail en cours et 'désencombrer' l'espace psychique",
+      "Imposer une méthode unique",
+      "Vérifier la conformité aux protocoles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La supervision vise à améliorer le travail en cours et à 'désencombrer' l'espace psychique accaparé par les situations des personnes accompagnées. Les praticiens fortement impactés ont besoin de prévention et de soin pour éviter l'épuisement et ses conséquences somatiques."
+  },
+  {
+    "id": 150,
+    "question": "Pour la supervision, il est recommandé de :",
+    "options": [
+      "Rester entre praticiens de la même approche uniquement",
+      "Privilégier la pluralité d'approches (Gestalt, PNL, AT, systémique, etc.)",
+      "Éviter tout échange avec d'autres professionnels",
+      "Se superviser soi-même exclusivement"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Il est recommandé d'éviter l'entre-soi technique strict et de préférer la pluralité d'approches : Gestalt, PNL, Analyse Transactionnelle, systémique, etc. Cette richesse des regards croisés apporte de multiples pistes et perspectives pour enrichir la pratique."
+  }
+]

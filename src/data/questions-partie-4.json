@@ -1,0 +1,177 @@
+[
+  {
+    "id": 76,
+    "question": "Avant tout retraitement, il faut :",
+    "options": ["Restaurer sécurité intérieure et stabilité émotionnelle", "Confronter immédiatement", "Ignorer les émotions", "Prescrire des médicaments"],
+    "correctAnswer": 0,
+    "explanation": "Stabilisation fondamentale : créer sécurité intérieure et stabilité."
+  },
+  {
+    "id": 77,
+    "question": "Les facteurs de dissociation à vérifier sont :",
+    "options": ["Médicaments, alcool, drogues", "L'âge", "Le statut social", "Le niveau d'éducation"],
+    "correctAnswer": 0,
+    "explanation": "Médicaments, alcool, drogues créent dissociation empêchant le retraitement."
+  },
+  {
+    "id": 78,
+    "question": "Le pré-talk consiste à :",
+    "options": ["Expliquer le fonctionnement cérébral post-événement", "Parler de soi", "Éviter toute explication", "Raconter des histoires"],
+    "correctAnswer": 0,
+    "explanation": "Psychoéducation sur le traitement de l'information traumatique."
+  },
+  {
+    "id": 79,
+    "question": "Le 'lieu sécure' est :",
+    "options": ["Un lieu physique réel", "Un hôpital", "Un espace de ressources interne", "La maison du client"],
+    "correctAnswer": 2,
+    "explanation": "Espace mental où la personne se sent en parfaite sécurité."
+  },
+  {
+    "id": 80,
+    "question": "Le rôle du thérapeute est celui de :",
+    "options": ["Juge", "Expert absolu", "Tuteur de résilience", "Conseiller moral"],
+    "correctAnswer": 2,
+    "explanation": "Tuteur de résilience : présence sécurisante et soutenante."
+  },
+  {
+    "id": 81,
+    "question": "La disponibilité perçue du thérapeute doit être :",
+    "options": ["Minimale", "Inexistante", "Accrue (accès facilité, transparence)", "Limitée strictement"],
+    "correctAnswer": 2,
+    "explanation": "Disponibilité perçue accrue rassure et renforce la sécurité."
+  },
+  {
+    "id": 82,
+    "question": "L'accueil du client nécessite de :",
+    "options": ["Rester distant", "Repérer signes d'insécurité, créer lien humain", "Ignorer ses émotions", "Être neutre totalement"],
+    "correctAnswer": 1,
+    "explanation": "Repérer insécurité, créer lien humain. Moment clé."
+  },
+  {
+    "id": 83,
+    "question": "Le recueil d'informations porte sur :",
+    "options": ["Uniquement les symptômes actuels", "L'enfance seulement", "Cible, déclencheurs, souvenirs, soutien social", "Les rêves uniquement"],
+    "correctAnswer": 2,
+    "explanation": "Complet : cible, déclencheurs, souvenirs, soutien social."
+  },
+  {
+    "id": 84,
+    "question": "La pensée négative centrale concerne :",
+    "options": ["Les autres", "Le monde en général", "Soi dans l'événement", "L'avenir"],
+    "correctAnswer": 2,
+    "explanation": "Croyance irrationnelle sur soi dans l'événement."
+  },
+  {
+    "id": 85,
+    "question": "L'intensité émotionnelle se mesure sur une échelle de :",
+    "options": ["0 à 5", "1 à 7", "0 à 10", "0 à 100"],
+    "correctAnswer": 2,
+    "explanation": "0 (neutre/calme) à 10 (le plus grand stress imaginable)."
+  },
+  {
+    "id": 86,
+    "question": "La validité de la cognition positive se mesure de :",
+    "options": ["0 à 10", "1 à 7", "0 à 5", "1 à 10"],
+    "correctAnswer": 1,
+    "explanation": "1 (complètement faux) à 7 (totalement vrai)."
+  },
+  {
+    "id": 87,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Le 'lieu sécure' est un lieu physique à visiter régulièrement.",
+    "correctAnswer": false,
+    "explanation": "FAUX. C'est un espace mental interne que la personne construit."
+  },
+  {
+    "id": 88,
+    "question": "Les séquences de stimulations durent environ :",
+    "options": ["5 secondes", "5 minutes", "30 secondes (aller-retour selon calibration)", "1 minute"],
+    "correctAnswer": 2,
+    "explanation": "Environ 30 allers-retours = 30 secondes selon calibration."
+  },
+  {
+    "id": 89,
+    "question": "Les 3 phases du RITMO sont :",
+    "options": ["Début, milieu, fin", "Accueil, traitement, sortie", "Stabilisation, désensibilisation, retraitement", "Évaluation, action, clôture"],
+    "correctAnswer": 2,
+    "explanation": "1) Stabilisation, 2) Désensibilisation, 3) Retraitement. Dans cet ordre."
+  },
+  {
+    "id": 90,
+    "question": "La technique combine :",
+    "options": ["Uniquement la PNL", "Seulement l'hypnose", "Uniquement les mouvements oculaires", "Hypnose, PNL et stimulations bilatérales alternées"],
+    "correctAnswer": 3,
+    "explanation": "Technique intégrative : hypnose + PNL + stimulations bilatérales."
+  },
+  {
+    "id": 91,
+    "question": "Les stimulations peuvent être :",
+    "options": ["Uniquement visuelles", "Seulement auditives", "Visuelles, auditives, kinesthésiques", "Uniquement tactiles"],
+    "correctAnswer": 2,
+    "explanation": "Trois façons : visuelles, auditives, kinesthésiques."
+  },
+  {
+    "id": 92,
+    "question": "Comment identifier la pensée négative ?",
+    "options": ["Le thérapeute la devine", "Elle concerne les autres", "C'est une idée négative sur soi, irrationnelle", "Elle est toujours rationnelle"],
+    "correctAnswer": 2,
+    "explanation": "Croyance irrationnelle et négative sur soi-même."
+  },
+  {
+    "id": 93,
+    "question": "Exemples de pensées négatives :",
+    "options": ["Je suis heureux", "Tout va bien", "Je suis fort(e)", "Je ne mérite pas d'être aimé(e), je suis impuissant(e)"],
+    "correctAnswer": 3,
+    "explanation": "Auto-affirmations limitantes et dévalorisantes."
+  },
+  {
+    "id": 94,
+    "question": "La pensée négative crée ou renforce :",
+    "options": ["La joie", "Un sentiment d'insécurité", "La confiance", "L'optimisme"],
+    "correctAnswer": 1,
+    "explanation": "Crée ou renforce un sentiment profond d'insécurité."
+  },
+  {
+    "id": 95,
+    "question": "La pensée négative touche :",
+    "options": ["L'estime des autres", "Uniquement le futur", "L'image et l'estime de soi", "Les compétences techniques"],
+    "correctAnswer": 2,
+    "explanation": "Touche directement l'image de soi et l'estime de soi."
+  },
+  {
+    "id": 96,
+    "question": "L'émotion reliée à la pensée négative doit être :",
+    "options": ["Ignorée", "Supprimée", "Identifiée et localisée dans le corps", "Amplifiée"],
+    "correctAnswer": 2,
+    "explanation": "Identifier l'émotion et sa localisation corporelle. Cible pour le retraitement."
+  },
+  {
+    "id": 97,
+    "question": "Le but de la désensibilisation est de :",
+    "options": ["Amplifier l'émotion", "Ignorer l'émotion", "Diminuer l'intensité émotionnelle progressivement", "La maintenir constante"],
+    "correctAnswer": 2,
+    "explanation": "Diminuer progressivement l'intensité émotionnelle (de 10 vers 0)."
+  },
+  {
+    "id": 98,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Les stimulations bilatérales sont uniquement visuelles.",
+    "correctAnswer": false,
+    "explanation": "FAUX. Elles peuvent être visuelles, auditives OU kinesthésiques."
+  },
+  {
+    "id": 99,
+    "question": "Le RITMO peut être utilisé pour :",
+    "options": ["Uniquement les traumas de guerre", "Seulement les adultes", "Traumas divers, annonces médicales, douleurs chroniques", "Uniquement les accidents"],
+    "correctAnswer": 2,
+    "explanation": "Champ d'application très large : traumas, maladies, douleurs, etc."
+  },
+  {
+    "id": 100,
+    "question": "Face à une annonce de maladie grave, le RITMO :",
+    "options": ["Est contre-indiqué", "N'a aucun effet", "Aggrave le stress", "Facilite le franchissement du cap et réduit l'anxiété"],
+    "correctAnswer": 3,
+    "explanation": "Aide à franchir le cap, réduit la charge émotionnelle."
+  }
+]

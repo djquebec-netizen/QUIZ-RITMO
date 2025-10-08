@@ -1,0 +1,177 @@
+[
+  {
+    "id": 51,
+    "question": "Le risque de revictimisation est accru en cas de :",
+    "options": ["Forte reconnaissance sociale", "Soutien immédiat", "Justice rapide", "Faible reconnaissance et lenteur judiciaire"],
+    "correctAnswer": 3,
+    "explanation": "Sans reconnaissance sociale/judiciaire, la personne reste fragilisée et vulnérable."
+  },
+  {
+    "id": 52,
+    "question": "Les trajectoires répétées d'agressions peuvent s'expliquer par :",
+    "options": ["Le hasard uniquement", "Le caractère de la victime", "L'absence de vigilance", "Répétitions de Gestalts inachevées sans ressources"],
+    "correctAnswer": 3,
+    "explanation": "Situations non résolues qui se répètent inconsciemment sans nouvelles ressources."
+  },
+  {
+    "id": 53,
+    "question": "Le passage de victime à agresseur est :",
+    "options": ["Systématique", "Toujours intentionnel", "Impossible", "Non systématique, extériorisation inconsciente"],
+    "correctAnswer": 3,
+    "explanation": "Non systématique. Extériorisation inconsciente de l'horreur subie."
+  },
+  {
+    "id": 54,
+    "question": "Que nécessite la revictimisation pour être évitée ?",
+    "options": ["Isolation sociale", "Apprentissage de ressources et travail thérapeutique", "Méfiance généralisée", "Évitement de toute relation"],
+    "correctAnswer": 1,
+    "explanation": "Acquérir nouvelles ressources et identifier les patterns inconscients."
+  },
+  {
+    "id": 55,
+    "question": "L'altération des relations avec autrui inclut :",
+    "options": ["Confiance accrue", "Relations facilitées", "Ouverture totale", "Incapacité à faire confiance, revictimisation"],
+    "correctAnswer": 3,
+    "explanation": "Difficulté à faire confiance, peur de l'abandon, méfiance excessive."
+  },
+  {
+    "id": 56,
+    "question": "La perception de l'agresseur peut devenir :",
+    "options": ["Toujours réaliste", "Distordue, idéalisée ou préoccupante", "Neutre systématiquement", "Inexistante"],
+    "correctAnswer": 1,
+    "explanation": "Distorsion cognitive, idéalisation paradoxale, ou préoccupation obsessionnelle."
+  },
+  {
+    "id": 57,
+    "question": "Les difficultés relationnelles après trauma concernent :",
+    "options": ["Uniquement la famille", "Tous les domaines (social, professionnel, intime)", "Seulement le couple", "Aucun domaine"],
+    "correctAnswer": 1,
+    "explanation": "Impact global : familial, professionnel, social, intime."
+  },
+  {
+    "id": 58,
+    "question": "La prise de responsabilité de l'agresseur est :",
+    "options": ["Inutile", "Impossible", "Facultative", "Importante pour le travail thérapeutique"],
+    "correctAnswer": 3,
+    "explanation": "Essentielle pour briser le cycle de transmission du trauma."
+  },
+  {
+    "id": 59,
+    "question": "Le soutien social après trauma est :",
+    "options": ["Sans importance", "Nuisible", "Optionnel", "Déterminant pour la récupération"],
+    "correctAnswer": 3,
+    "explanation": "Un des facteurs prédictifs les plus importants de la récupération."
+  },
+  {
+    "id": 60,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Le passage de victime à agresseur est systématique et toujours intentionnel.",
+    "correctAnswer": false,
+    "explanation": "FAUX. Ni systématique ni intentionnel. La majorité des victimes ne deviennent jamais agresseurs."
+  },
+  {
+    "id": 61,
+    "question": "Les troubles digestifs (colopathie) peuvent être :",
+    "options": ["Une porte d'entrée fréquente du trauma", "Sans lien avec le trauma", "Imaginaires", "Uniquement organiques"],
+    "correctAnswer": 0,
+    "explanation": "Manifestation somatique fréquente. Porte d'entrée thérapeutique."
+  },
+  {
+    "id": 62,
+    "question": "Les douleurs chroniques liées au trauma incluent :",
+    "options": ["Uniquement les maux de tête", "Seulement les douleurs musculaires", "Aucune douleur réelle", "Fibromyalgie, endométriose"],
+    "correctAnswer": 3,
+    "explanation": "Le corps garde la mémoire du trauma sous forme de douleurs chroniques."
+  },
+  {
+    "id": 63,
+    "question": "L'approche des somatisations doit :",
+    "options": ["Partir du symptôme et de l'événement marquant", "Ignorer le symptôme", "Minimiser les plaintes", "Confronter immédiatement"],
+    "correctAnswer": 0,
+    "explanation": "Partir du symptôme corporel et explorer doucement l'événement associé."
+  },
+  {
+    "id": 64,
+    "question": "Les difficultés sexuelles sont souvent liées à :",
+    "options": ["Agressions ou premières expériences traumatisantes", "Des facteurs uniquement physiologiques", "Aucun facteur identifiable", "L'âge uniquement"],
+    "correctAnswer": 0,
+    "explanation": "Fréquemment liées à des agressions ou premières expériences traumatisantes."
+  },
+  {
+    "id": 65,
+    "question": "Les pratiques médicales traumatiques incluent :",
+    "options": ["Tous les examens médicaux", "Examens gynécologiques mal conduits, accouchements difficiles", "La vaccination", "Les prises de sang"],
+    "correctAnswer": 1,
+    "explanation": "Examens sans douceur/consentement, accouchements vécus comme violents."
+  },
+  {
+    "id": 66,
+    "question": "Le lien corps-esprit dans le trauma est :",
+    "options": ["Fondamental et systématique", "Inexistant", "Négligeable", "Rare"],
+    "correctAnswer": 0,
+    "explanation": "Au cœur de la compréhension du trauma. Dimension somatique essentielle."
+  },
+  {
+    "id": 67,
+    "question": "Les aspects somatiques des souvenirs traumatiques sont :",
+    "options": ["Absents", "Systématiquement explorés comme cibles", "Sans importance", "Uniquement psychologiques"],
+    "correctAnswer": 1,
+    "explanation": "Systématiquement explorés. Le corps est une porte d'accès privilégiée."
+  },
+  {
+    "id": 68,
+    "question": "La capacité associative émotions/souvenirs somatiques :",
+    "options": ["N'existe pas", "Est rare", "Est à ignorer", "Est une porte d'entrée importante"],
+    "correctAnswer": 3,
+    "explanation": "Reconnexion émotions-cognitions-sensations permet leur intégration."
+  },
+  {
+    "id": 69,
+    "question": "Les problèmes sexuels après trauma nécessitent :",
+    "options": ["Uniquement des médicaments", "Une approche intégrant l'histoire traumatique", "D'être ignorés", "Une confrontation directe"],
+    "correctAnswer": 1,
+    "explanation": "Approche globale intégrant l'histoire traumatique et les cognitions négatives."
+  },
+  {
+    "id": 70,
+    "question": "L'endométriose peut être liée à :",
+    "options": ["Uniquement des facteurs hormonaux", "Des traumatismes et stress chronique", "Rien de psychologique", "Le hasard"],
+    "correctAnswer": 1,
+    "explanation": "Lien significatif avec traumatismes (notamment sexuels) et stress chronique."
+  },
+  {
+    "id": 71,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Les douleurs chroniques n'ont aucun lien avec le trauma psychologique.",
+    "correctAnswer": false,
+    "explanation": "FAUX. Lien fort entre douleurs chroniques et trauma. Le corps garde la mémoire."
+  },
+  {
+    "id": 72,
+    "question": "RITMO signifie :",
+    "options": ["Relaxation Intense Thérapeutique", "Retraitement de l'Information Traumatique par Mouvements Oculaires", "Respiration Intégrative", "Résilience Immédiate"],
+    "correctAnswer": 1,
+    "explanation": "Retraitement de l'Information Traumatique par les Mouvements Oculaires."
+  },
+  {
+    "id": 73,
+    "question": "Le RITMO est inspiré de :",
+    "options": ["La psychanalyse", "L'EMDR", "La TCC seule", "L'hypnose classique"],
+    "correctAnswer": 1,
+    "explanation": "Directement inspiré de l'EMDR, méthode de Francine Shapiro."
+  },
+  {
+    "id": 74,
+    "question": "La peau dans l'approche RITMO symbolise :",
+    "options": ["Rien de particulier", "La frontière symbolique, l'insécurité", "Uniquement l'organe", "La protection physique seule"],
+    "correctAnswer": 1,
+    "explanation": "Frontière symbolique entre soi et le monde. Le trauma crée une brèche."
+  },
+  {
+    "id": 75,
+    "question": "L'état central ciblé par RITMO est :",
+    "options": ["La joie", "La colère", "L'indifférence", "L'insécurité durable et menace perçue"],
+    "correctAnswer": 3,
+    "explanation": "Cible l'état d'insécurité durable et perception de menace."
+  }
+]

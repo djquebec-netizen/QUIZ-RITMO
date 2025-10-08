@@ -1,0 +1,177 @@
+[
+  {
+    "id": 26,
+    "question": "L'évitement dans le SSPT concerne :",
+    "options": ["Lieux, personnes, indices contextuels", "Les situations agréables", "Les nouvelles expériences", "Les pensées positives"],
+    "correctAnswer": 0,
+    "explanation": "L'évitement est une stratégie défensive automatique : la personne évite tout ce qui peut rappeler le trauma (lieux, personnes, activités, conversations, pensées). Cet évitement peut devenir très invalidant et restreindre considérablement la vie sociale et professionnelle, créant un cercle vicieux d'isolement."
+  },
+  {
+    "id": 27,
+    "question": "L'hypervigilance se manifeste par :",
+    "options": ["Alerte permanente, sommeil perturbé, difficultés de concentration", "Confiance totale", "Léthargie", "Relaxation excessive"],
+    "correctAnswer": 0,
+    "explanation": "L'hypervigilance est un état d'alerte permanent et épuisant : la personne scanne constamment l'environnement à la recherche de dangers potentiels, a un sommeil perturbé et non réparateur, sursaute facilement au moindre bruit, et a des difficultés majeures de concentration. Le système nerveux reste bloqué en mode 'survie'."
+  },
+  {
+    "id": 28,
+    "question": "Quelle est la temporalité de consolidation du SSPT ?",
+    "options": ["1 semaine", "2-3 mois", "1 an", "5 ans"],
+    "correctAnswer": 1,
+    "explanation": "Le SSPT peut se consolider et devenir chronique en 2-3 mois après l'événement traumatique. C'est pourquoi il ne faut absolument pas attendre pour intervenir : une prise en charge précoce peut prévenir la chronicisation des symptômes et améliorer significativement le pronostic. Les symptômes initiaux sont souvent partagés, c'est leur persistance qui signe le SSPT."
+  },
+  {
+    "id": 29,
+    "question": "Faut-il attendre avant d'intervenir sur un SSPT ?",
+    "options": ["Oui, attendre au moins 6 mois", "Non, ne pas attendre pour intervenir", "Oui, attendre 1 an", "Cela n'a pas d'importance"],
+    "correctAnswer": 1,
+    "explanation": "L'intervention précoce est absolument cruciale et ne doit pas être retardée. Ne pas attendre permet de prévenir la chronicisation du SSPT et d'éviter que les symptômes ne s'installent durablement dans la vie de la personne. Plus on attend, plus le trauma risque de s'ancrer profondément dans la mémoire et de créer des évitements généralisés et des altérations durables."
+  },
+  {
+    "id": 30,
+    "question": "Une particularité du SSPT peut être :",
+    "options": ["Mémoire parfaite", "Amnésie possible de l'événement malgré symptômes", "Absence totale de symptômes", "Euphorie constante"],
+    "correctAnswer": 1,
+    "explanation": "Paradoxalement, il est possible d'avoir une amnésie partielle ou totale de l'événement traumatique tout en présentant tous les autres symptômes du SSPT. Le cerveau peut 'bloquer' l'accès au souvenir comme mécanisme de protection extrême, mais les traces émotionnelles et corporelles du trauma restent présentes et actives, créant des symptômes sans souvenir conscient accessible."
+  },
+  {
+    "id": 31,
+    "question": "Les déclencheurs du SSPT peuvent être :",
+    "options": ["Uniquement biologiques", "Contextuels, biographiques, transgénérationnels", "Inexistants", "Uniquement conscients"],
+    "correctAnswer": 1,
+    "explanation": "Les déclencheurs sont très variés et souvent inconscients : éléments contextuels (odeur, son, lumière, sensation), liens biographiques (dates anniversaires, saisons), et même transgénérationnels (traumas familiaux non résolus transmis à travers les générations). Ces déclencheurs peuvent réactiver brutalement les symptômes de façon surprenante et incompréhensible pour la personne."
+  },
+  {
+    "id": 32,
+    "question": "L'altération des émotions dans le SSPT inclut :",
+    "options": ["Stabilité émotionnelle parfaite", "Joie permanente", "Indifférence totale", "Décharges émotionnelles disproportionnées, dissociation"],
+    "correctAnswer": 3,
+    "explanation": "Les émotions deviennent imprévisibles et difficiles à réguler : décharges émotionnelles intenses et disproportionnées par rapport au stimulus (colère explosive, pleurs incontrôlables) alternant avec une dissociation émotionnelle (sentiment d'être coupé de ses émotions, d'être spectateur de sa propre vie, engourdissement affectif). Cette dysrégulation est très perturbante."
+  },
+  {
+    "id": 33,
+    "question": "Le 'carré diagnostique' du SSPT comprend :",
+    "options": ["2 critères", "4 critères", "3 critères", "5 critères"],
+    "correctAnswer": 1,
+    "explanation": "Le diagnostic de SSPT repose sur quatre groupes de critères essentiels qui doivent tous être présents : 1) reviviscence de l'événement (flashbacks, cauchemars), 2) évitement des stimuli associés au trauma, 3) hypervigilance et réactivité accrue, 4) altération négative des cognitions et des émotions. Ces quatre 'piliers' constituent le carré diagnostique."
+  },
+  {
+    "id": 34,
+    "question": "Quelle durée minimum pour diagnostiquer un SSPT ?",
+    "options": ["1 semaine", "2-3 mois", "6 mois", "1 an"],
+    "correctAnswer": 1,
+    "explanation": "Les symptômes doivent persister au moins 2-3 mois pour parler de SSPT caractérisé. Avant cette durée, on peut parler de réaction de stress aigu ou de trouble de stress aigu. Cette temporalité permet de distinguer les réactions normales et temporaires post-traumatiques qui se résorbent naturellement du SSPT qui nécessite une intervention spécialisée."
+  },
+  {
+    "id": 35,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Il faut attendre 6 mois avant d'intervenir sur un SSPT.",
+    "correctAnswer": false,
+    "explanation": "FAUX. C'est une idée fausse et dangereuse. Au contraire, il ne faut absolument PAS attendre pour intervenir. Une prise en charge précoce (dès l'apparition des symptômes persistants à 2-3 mois) est cruciale pour prévenir la chronicisation du SSPT. Plus on attend, plus les symptômes risquent de s'ancrer durablement et de devenir résistants au traitement. L'intervention précoce améliore significativement le pronostic."
+  },
+  {
+    "id": 36,
+    "question": "Le SSPT peut survenir après :",
+    "options": ["Agressions, catastrophes, événements menaçants", "Uniquement des accidents", "Uniquement des guerres", "Des événements positifs"],
+    "correctAnswer": 0,
+    "explanation": "Le SSPT peut se développer après tout événement qui menace réellement ou subjectivement l'intégrité physique ou psychique de la personne : agressions (physiques, sexuelles, psychologiques), accidents graves, catastrophes naturelles, annonces médicales traumatisantes, témoignage direct de violence ou de mort. La perception subjective de menace vitale est déterminante, plus que l'événement objectif lui-même."
+  },
+  {
+    "id": 37,
+    "question": "L'impact social et professionnel du SSPT est :",
+    "options": ["Important avec retentissement sur la vie quotidienne", "Inexistant", "Uniquement temporaire", "Minime"],
+    "correctAnswer": 0,
+    "explanation": "Le SSPT a un impact majeur et souvent dévastateur sur tous les domaines de vie : difficultés professionnelles majeures (concentration impossible, absentéisme répété, conflits), isolement social progressif (évitement, irritabilité, retrait), problèmes relationnels et familiaux (incompréhension, tensions). C'est un trouble particulièrement invalidant qui nécessite reconnaissance et prise en charge adaptée."
+  },
+  {
+    "id": 38,
+    "question": "Les symptômes initiaux du SSPT sont :",
+    "options": ["Souvent partagés, différenciation sur durée et évolution", "Toujours spécifiques", "Uniquement physiques", "Jamais présents"],
+    "correctAnswer": 0,
+    "explanation": "Immédiatement après un trauma, beaucoup de personnes présentent des symptômes similaires de stress aigu (choc, sidération, confusion). C'est la persistance de ces symptômes au-delà de 2-3 mois et leur évolution vers un pattern chronique et envahissant qui permettent de différencier un SSPT d'une réaction normale et transitoire de stress post-traumatique."
+  },
+  {
+    "id": 39,
+    "question": "Les troubles de stress extrêmes incluent :",
+    "options": ["Uniquement la tristesse", "Pensées uniquement positives", "Absence d'émotions", "Émotions dérégulées, pensées auto-dévalorisantes"],
+    "correctAnswer": 3,
+    "explanation": "Les troubles de stress extrêmes (ou aigus) se caractérisent par une dérégulation émotionnelle importante et chaotique (rage incontrôlable, désespoir profond, terreur panique) et des pensées auto-dévalorisantes envahissantes ('je suis impuissant(e)', 'c'est de ma faute', 'je ne vaux rien'). Ces états nécessitent une attention clinique particulière."
+  },
+  {
+    "id": 40,
+    "question": "Les comportements à risque dans le stress extrême comprennent :",
+    "options": ["Prudence excessive", "Hyperprotection", "Évitement de tout danger", "Automutilations, idées suicidaires, prises de risques"],
+    "correctAnswer": 3,
+    "explanation": "Le stress extrême peut conduire à des comportements dangereux et auto-destructeurs : automutilations (pour 'sentir quelque chose' ou punir le corps), idées ou tentatives suicidaires (pour échapper à une souffrance insupportable), prises de risques inconsidérées. Ces comportements reflètent une souffrance psychique intense et nécessitent une prudence clinique immédiate."
+  },
+  {
+    "id": 41,
+    "question": "Les troubles de stress extrêmes sont fréquents dans :",
+    "options": ["La population générale", "Jamais chez les jeunes", "Uniquement chez les adultes", "Les états limites, surtout à l'adolescence"],
+    "correctAnswer": 3,
+    "explanation": "Les troubles de stress extrêmes sont particulièrement fréquents chez les personnes avec une organisation limite de la personnalité, et spécialement pendant l'adolescence. Cette période de développement identitaire est particulièrement vulnérable, d'autant plus si elle s'accompagne d'un historique traumatique précoce qui a affecté le développement de l'attachement."
+  },
+  {
+    "id": 42,
+    "question": "Le lien entre stress extrême et trauma est :",
+    "options": ["Inexistant", "Rare", "Uniquement théorique", "Fréquent, surtout dans traumas complexes"],
+    "correctAnswer": 3,
+    "explanation": "Il existe un lien fort et bien documenté entre les troubles de stress extrêmes et les événements traumatiques. Dans les traumas complexes (répétés, précoces, avec carence affective), ce lien est encore plus marqué car le trauma impacte profondément le développement même de l'attachement, de la régulation émotionnelle et de l'identité."
+  },
+  {
+    "id": 43,
+    "question": "Les altérations cognitives incluent :",
+    "options": ["Difficultés attentionnelles, amnésies, dissociation", "Mémoire parfaite", "Clarté mentale absolue", "Concentration optimale"],
+    "correctAnswer": 0,
+    "explanation": "Le trauma altère profondément les fonctions cognitives : difficultés majeures de concentration et d'attention soutenue, troubles de mémoire variés (amnésies partielles ou totales de l'événement, difficultés de mémoire de travail), et phénomènes dissociatifs (sentiment de détachement, d'irréalité, déconnexion esprit-corps). Ces altérations peuvent persister longtemps."
+  },
+  {
+    "id": 44,
+    "question": "La réémergence de souvenirs survient souvent :",
+    "options": ["Immédiatement", "De façon aléatoire uniquement", "Jamais", "De manière tardive, à un moment 'résolvable'"],
+    "correctAnswer": 3,
+    "explanation": "Les souvenirs traumatiques dissociés ou refoulés peuvent réapparaître soudainement des années, voire des décennies plus tard. Cette réémergence survient souvent à un moment où la personne se sent inconsciemment assez forte pour les affronter, ou après un déclencheur spécifique. Le psychisme 'protège' la personne jusqu'à ce qu'elle soit en capacité psychique d'intégrer ces souvenirs."
+  },
+  {
+    "id": 45,
+    "question": "La mémoire traumatique est :",
+    "options": ["Parfaitement fiable", "Toujours complète", "Inexistante", "Malléable, fragmentée, mouvante"],
+    "correctAnswer": 3,
+    "explanation": "La mémoire traumatique n'est absolument pas une vidéo fidèle et stable de l'événement. Elle est profondément fragmentée (morceaux sensoriels, émotionnels, sans narration cohérente), malléable (peut être modifiée à chaque rappel), et mouvante (évolue dans le temps, se reconstruit). Comme illustré dans 'Revoir Paris', le souvenir traumatique se reconstruit et change constamment."
+  },
+  {
+    "id": 46,
+    "question": "La perception de soi dans l'événement influence :",
+    "options": ["Uniquement l'humeur", "Rien du tout", "Seulement le sommeil", "Fortement l'impact (inefficacité, culpabilité, honte)"],
+    "correctAnswer": 3,
+    "explanation": "La façon dont la personne se perçoit elle-même dans l'événement traumatique est souvent plus déterminante pour l'impact psychologique que l'événement objectif lui-même : sentiment d'inefficacité total ('je n'ai rien pu faire'), culpabilité écrasante ('c'est de ma faute'), honte profonde ('je suis sale', 'je suis lâche'). C'est cette atteinte identitaire qui crée la blessure la plus profonde."
+  },
+  {
+    "id": 47,
+    "question": "Les stratégies de minimisation sont :",
+    "options": ["Pathologiques", "À éliminer immédiatement", "Inexistantes", "Des mécanismes pour tenir debout"],
+    "correctAnswer": 3,
+    "explanation": "Minimiser l'événement ('ce n'était pas si grave', 'j'exagère') ou le rationaliser ('j'ai bien géré finalement', 'ça aurait pu être pire') sont des mécanismes de défense psychiques qui permettent à la personne de continuer à fonctionner au quotidien. Ces stratégies ne sont pas pathologiques en soi et ne doivent jamais être attaquées frontalement : elles ont une fonction protectrice essentielle."
+  },
+  {
+    "id": 48,
+    "question": "L'altération de la régulation émotionnelle se manifeste par :",
+    "options": ["Calme permanent", "Joie constante", "Indifférence totale", "Rage, colère extrême, désespoir, automutilation"],
+    "correctAnswer": 3,
+    "explanation": "La dérégulation émotionnelle post-traumatique se traduit par des états émotionnels extrêmement intenses, fluctuants et souvent incontrôlables : rage et colère explosives disproportionnées, désespoir abyssal et paralysant, dégoût de soi profond. Certaines personnes peuvent recourir à l'automutilation pour 'sentir quelque chose' ou avoir des idées suicidaires pour échapper à cette souffrance."
+  },
+  {
+    "id": 49,
+    "type": "vf",
+    "question": "VRAI OU FAUX : Les stratégies de minimisation doivent être immédiatement éliminées.",
+    "correctAnswer": false,
+    "explanation": "FAUX. Les stratégies de minimisation ('ce n'était pas si grave') ou de rationalisation sont des mécanismes de défense protecteurs qui permettent à la personne de tenir debout psychologiquement et de continuer à fonctionner. Ces stratégies ne doivent JAMAIS être attaquées frontalement ou éliminées de force : elles ont une fonction protectrice importante. Elles s'assouplissent naturellement au fur et à mesure du travail thérapeutique."
+  },
+  {
+    "id": 50,
+    "question": "Le trauma altère :",
+    "options": ["Uniquement le sommeil", "La confiance envers autrui", "Seulement l'appétit", "Rien de relationnel"],
+    "correctAnswer": 1,
+    "explanation": "Le trauma, surtout lorsqu'il est causé par un autre être humain (agression, trahison, abus), altère profondément et durablement la capacité fondamentale à faire confiance aux autres. La personne peut devenir hyperméfiante, avoir du mal à créer des liens authentiques, ou paradoxalement faire confiance trop rapidement aux mauvaises personnes. Cette altération de la confiance est un des impacts les plus dévastateurs du trauma."
+  }
+]
